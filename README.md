@@ -16,3 +16,6 @@ https://bpacademy.lovable.app
 ## Goal
 
 Help beginners learn Unreal Engine Blueprints in a simple and practical way.
+## Screenshot
+
+![BP Academy Screenshot](homepage.png)
