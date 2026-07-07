@@ -11,8 +11,8 @@ BP Academy is an Unreal Engine Blueprint learning platform created by Utkarsh.
 
 ## Coming Soon
 
--500+ Blueprint Node
--learning system for niagara 
+- 500+ Blueprint Node
+- Learning system for niagara 
 
 ## Website
 
